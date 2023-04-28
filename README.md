@@ -6,5 +6,5 @@
 4.Bar Chart <br /> 
 5.Pie Chart
 
-##Watch Dashoard
+## Watch Dashoard
 ![Capture](https://user-images.githubusercontent.com/72723412/235111057-886eb213-c50b-46d4-add1-90fd99e34833.PNG)
