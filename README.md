@@ -1,9 +1,9 @@
 # Local Store Data Analysis With Excel
 ## Dashboard Built Using:
-1.Basic Excel Fiter
-2.Formulas
-3.Pivot Table
-4.Bar Chart
+1.Basic Excel Fiter <br /> 
+2.Formulas  <br /> 
+3.Pivot Table  <br /> 
+4.Bar Chart <br /> 
 5.Pie Chart
 
 ##Watch Dashoard
